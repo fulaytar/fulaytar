@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/0177efce0facdd611719dbe1e94af2a1ddbd2ac0e78304f97608a6a3b25c765a/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f67697068792d372e676966)](https://fulaytar.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*ZXCnATiJsFR1jO4O-oDzgw.gif)](https://fulaytar.io)
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 <img align="right" alt="coding" width="400" src="https://ruya.studio/assets/images/dev.webp">
